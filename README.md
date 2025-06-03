@@ -1,5 +1,15 @@
-# Vue 3 + Vite
+# E-commerce Web App - Vue.js Project
+This is a modern and elegant web application, built using **Vue.js** to display and manage products. It includes features such as adding, editing, and deleting products, a shopping cart feature, and API connectivity.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Project Features:
+Add/Edit/Delete Products
+Persistent Data Using LocalStorage/API
+Add to and Display Shopping Cart
+Responsive and Easy-to-Use User Interface
+Reusable Components and a Clean Code Structure
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Technologies Used:
+- Vue 3 (Composition API)
+- Axios (for API calls)
+- Vue Router
+- HTML5, CSS3, JavaScript
